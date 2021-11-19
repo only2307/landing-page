@@ -1,2 +1,8 @@
 # landing-page
-My code for create landing page after studying HTML and CSS basic on The Odin Project.
+My code for create landing page after studying HTML and CSS basic on The Odin Project.\n
+In this project i've used some images from:\n
+- Image by <a href="https://pixabay.com/users/jenny_nguyen-14377208/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4711785">Jenny Nguyen</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4711785">Pixabay</a>
+- Image by <a href="https://pixabay.com/users/pencilparker-7519217/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4678658">pencil parker</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4678658">Pixabay</a>
+- Image by <a href="https://pixabay.com/users/daria-yakovleva-3938704/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1914463">Дарья Яковлева</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1914463">Pixabay</a>
+- Image by <a href="https://pixabay.com/users/hg-fotografie-2282886/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4730005">HG-Fotografie</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4730005">Pixabay</a>
+- Image by <a href="https://pixabay.com/users/openclipart-vectors-30363/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=160841">OpenClipart-Vectors</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=160841">Pixabay</a>
